@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%2C%20I%27m%20Devansh%20Bansal!&animation=fadeIn&color=gradient&height=120" alt="header animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Hi,%20I'm%20Devansh%20Bansal!&fontSize=30&animation=fadeIn" />
 </p>
 
-### 💫 About Me
-👋 Hi, I’m **Devansh Bansal** — a B.Tech student at **VIT Bhopal** passionate about **Artificial Intelligence**, **Data Science**, and creative tech solutions.  
-💻 Skilled in Python, C, C++, C#, and enthusiastic about coding challenges, projects, and continuous learning.
+# 💫 About Me:
+👋 Hi, I’m **Devansh Bansal**  
+🎓 B.Tech student at **VIT Bhopal**  
+🤖 Passionate about **Artificial Intelligence & Data Science**  
+💻 Enthusiastic developer exploring **programming, coding challenges, and emerging tech**  
+🛠️ Skilled in **Python, C**, and problem-solving with a focus on real-world applications  
+📚 Lifelong learner, sharing what I build and discover  
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,24 +27,18 @@
 
 ---
 
-### 🚀 Featured Projects
-- [**PhishShield**](https://github.com/your-repo) – Email phishing detection using ML.  
-- [**Sorting Entropy Analysis**](https://github.com/your-repo) – Performance analysis of classic vs modern sorting algorithms.  
-- [**Portfolio Website**](https://github.com/your-repo) – Personal responsive website built with React & Tailwind.  
+# 🌟 Current Focus:
+- Building projects in **AI & Machine Learning**  
+- Exploring **Data Science applications**  
+- Strengthening problem-solving through **competitive programming**  
 
 ---
 
-### 📊 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Devansh-Bansal&theme=tokyonight&hide_border=true)  
-*Consistent coding is the heart of growth.*
+# 📬 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Bansal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-bansal-772b9a237/)  
+[![Gmail](https://img.shields.io/badge/Email-devanshbansal212%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:devanshbansal212@gmail.com)  
 
 ---
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Bansal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-bansal-772b9a237/)  
-[![Gmail](https://img.shields.io/badge/Email-devanshbansal212%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshbansal212@gmail.com)  
-
----
-
-### ⚡ Fun Fact
-When not coding, I’m sketching UI concepts or visualizing data in creative ways—design meets data. ✨
+# ⚡ Fun Fact
+When I’m not coding, I enjoy designing creative UIs and exploring how **art meets technology** ✨
