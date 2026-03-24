@@ -42,3 +42,11 @@
 
 # ⚡ Fun Fact
 When I’m not coding, I enjoy designing creative UIs and exploring how **art meets technology** ✨
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-Bansal-AI&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Bansal-AI&theme=tokyonight&hide_border=true"/>
+</p>
