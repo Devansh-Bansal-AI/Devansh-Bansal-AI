@@ -34,6 +34,11 @@
 
 ---
 
+# 🎥 Introduction Video:
+[![Watch Video](https://img.shields.io/badge/Watch%20My%20Intro-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
+
+---
+
 # 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Bansal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devansh-bansal-772b9a237/)  
 [![Gmail](https://img.shields.io/badge/Email-devanshbansal212%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:devanshbansal212@gmail.com)  
